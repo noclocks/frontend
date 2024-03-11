@@ -22,6 +22,13 @@ TypeScript be used for all new projects going forward.
 TypeScript offers several advantages over JavaScript, including static typing, better code organization, and better
 tooling support.
 
+We are convinced that the experience offered by [TypeScript](https://www.typescriptlang.org/) will enhance your capabilities as a developer. 
+
+- Through its enforcement of explicit data types, TypeScript delivers immediate feedback as you code.
+- This manifests either as useful autocomplete suggestions within your editor or as immediate error indications through red squiggly lines for attempts to utilize non-existent properties or incorrect data types.
+- Such features preemptively address errors that might otherwise emerge in later stages of debugging.
+- For both newcomers to web development and experienced professionals, the disciplined approach enforced by [TypeScript](https://www.typescriptlang.org/) promises a smoother and more predictable coding journey compared to using plain JavaScript.
+
 ## Consequences
 
 - Developers will need to learn TypeScript if they are not already familiar with it.
