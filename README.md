@@ -41,6 +41,10 @@ Future additions:
 - [Jest](https://jestjs.io/) is used for testing.
 - E-commerce functionality is handled by [Stripe](https://stripe.com/).
 
+Future Considerations:
+- [Biome](https://biomejs.dev/)
+- [Astro](https://astro.build/)
+
 ## Architecture
 
 The frontend architecture is based on the [Remix](https://remix.run/) framework. Remix is a full-stack web framework that lets you build web apps with React, server-rendered pages, and a data-fetching layer all in one.
