@@ -11,7 +11,8 @@
   "scripts": {
     "preinstall": "pnpm dlx only-allow pnpm",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "storybook": "storybook dev -p 6006",
+    "storybook-docs": "storybook dev --docs",
+    "storybook": "BROWSER=process.env.BROWSER storybook dev -p 6006 --disable-telemetry",
     "build-storybook": "storybook build"
   },
   "author": "Jimmy Briggs <jimmy.briggs@jimbrig.com> (https://github.com/jimbrig)",
