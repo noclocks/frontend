@@ -9,7 +9,7 @@ export default {
   },
 }
 
-export const BackgroundColors = (): React.ReactElement => (
+export const BackgroundColors = () => (
   <div className="grid-container">
     <h1>Background color</h1>
     <h2>Primary</h2>
@@ -249,5 +249,5 @@ export const BackgroundColors = (): React.ReactElement => (
         <p>Disabled dark</p>
       </div>
     </div>
-    </div>
-)
+  </div>
+);
