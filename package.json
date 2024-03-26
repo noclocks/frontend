@@ -14,6 +14,9 @@
     "build-storybook": "storybook build"
   },
   "author": "Jimmy Briggs <jimmy.briggs@jimbrig.com> (https://github.com/jimbrig)",
+  "contributors": [
+    "Patrick Howard <patrick.howard@nolocks.dev> (https://github.com/phoward38)"
+  ],
   "license": "Unlicense",
   "devDependencies": {
     "@storybook/addon-essentials": "^7.6.17",
