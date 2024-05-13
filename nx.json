@@ -1,0 +1,5 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "defaultBase": "main",
+  "nxCloudAccessToken": "ZTIxODM2N2ItNTQ5NC00YTc4LTljMjItZjliMzYwNGFjZTVjfHJlYWQtd3JpdGU="
+}
